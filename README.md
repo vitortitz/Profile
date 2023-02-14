@@ -5,7 +5,7 @@ Continuo estudando sobre as tecnologias de desenvolvimento para front e back-end
 
 <div>
 <details>
-  <summary>🧑 More about me</summary>
+  <summary>🧑 Mais sobre mim</summary>
 
 - 🔭 Atualmente estou em busca do meu primeiro emprego na área.
 
