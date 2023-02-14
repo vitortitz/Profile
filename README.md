@@ -1,3 +1,19 @@
+<p>
+  
+Olá 👋, meu nome é Vitor me graduei em Ciência da Computação no ano de 2023.
+Continuo estudando sobre as tecnologias de desenvolvimento para front e back-end, dando prioridade ao Java. Estou em busca do meu primeiro emprego na área. ✨
+
+<div>
+<details>
+  <summary>🧑 More about me</summary>
+
+- 🔭 Atualmente estou em busca do meu primeiro emprego na área.
+
+- 🌱 Atualmente aprendendo sobre NextJS, React.
+
+</details>
+  
+</p>
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> 
 
